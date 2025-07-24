@@ -1,0 +1,21 @@
+{
+    "Sports": {
+        "7893": {
+            "Name": "Fifa",
+            "Cost": 20000,
+            "Price": 30000
+        },
+        "1697": {
+            "Name": "PES",
+            "Cost": 4000,
+            "Price": 5000
+        }
+    },
+    "Adventure": {
+        "8433": {
+            "Name": "Python",
+            "Cost": 200,
+            "Price": 600
+        }
+    }
+}
